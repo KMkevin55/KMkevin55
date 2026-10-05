@@ -9,6 +9,19 @@
 
 <br/>
 
+<!-- FEATURED LIVE PORTFOLIO LINK -->
+<p align="center">
+  <a href="https://daniued-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-Daniued%20Reman%20Julien-00FFCC?style=for-the-badge&labelColor=0d1117" alt="Daniued Reman Julien — Live Portfolio" />
+  </a>
+  <br/>
+  <a href="https://daniued-portfolio.vercel.app/" target="_blank">
+    <b>Daniued Reman Julien — Software Engineer | Email Development & Automation | AI Graduate Applicant ↗</b>
+  </a>
+</p>
+
+<br/>
+
 <!-- QUICK BADGES & SOCIAL LINKS -->
 <p align="center">
   <a href="https://daniued-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
